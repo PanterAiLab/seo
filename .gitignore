@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# IntelliJ IDEA
+.idea
+*.iml
+/shelf/
+/workspace.xml
+/queries/
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
